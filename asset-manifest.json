@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emotional-diary/static/css/main.95e2afb7.chunk.css",
+    "main.js": "/emotional-diary/static/js/main.533c91f3.chunk.js",
+    "main.js.map": "/emotional-diary/static/js/main.533c91f3.chunk.js.map",
+    "runtime-main.js": "/emotional-diary/static/js/runtime-main.476e6dcc.js",
+    "runtime-main.js.map": "/emotional-diary/static/js/runtime-main.476e6dcc.js.map",
+    "static/js/2.76f1abdb.chunk.js": "/emotional-diary/static/js/2.76f1abdb.chunk.js",
+    "static/js/2.76f1abdb.chunk.js.map": "/emotional-diary/static/js/2.76f1abdb.chunk.js.map",
+    "static/js/3.14299acd.chunk.js": "/emotional-diary/static/js/3.14299acd.chunk.js",
+    "static/js/3.14299acd.chunk.js.map": "/emotional-diary/static/js/3.14299acd.chunk.js.map",
+    "index.html": "/emotional-diary/index.html",
+    "static/css/main.95e2afb7.chunk.css.map": "/emotional-diary/static/css/main.95e2afb7.chunk.css.map",
+    "static/js/2.76f1abdb.chunk.js.LICENSE.txt": "/emotional-diary/static/js/2.76f1abdb.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/emotional-diary/static/media/NanumBarunpenR.3df0bf0b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.476e6dcc.js",
+    "static/js/2.76f1abdb.chunk.js",
+    "static/css/main.95e2afb7.chunk.css",
+    "static/js/main.533c91f3.chunk.js"
+  ]
+}
