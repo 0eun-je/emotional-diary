@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emotional-diary/static/css/main.95e2afb7.chunk.css",
-    "main.js": "/emotional-diary/static/js/main.533c91f3.chunk.js",
-    "main.js.map": "/emotional-diary/static/js/main.533c91f3.chunk.js.map",
+    "main.js": "/emotional-diary/static/js/main.4cd89e84.chunk.js",
+    "main.js.map": "/emotional-diary/static/js/main.4cd89e84.chunk.js.map",
     "runtime-main.js": "/emotional-diary/static/js/runtime-main.476e6dcc.js",
     "runtime-main.js.map": "/emotional-diary/static/js/runtime-main.476e6dcc.js.map",
     "static/js/2.76f1abdb.chunk.js": "/emotional-diary/static/js/2.76f1abdb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.476e6dcc.js",
     "static/js/2.76f1abdb.chunk.js",
     "static/css/main.95e2afb7.chunk.css",
-    "static/js/main.533c91f3.chunk.js"
+    "static/js/main.4cd89e84.chunk.js"
   ]
 }
