@@ -9,8 +9,7 @@ import StatsPage from '../pages/StatsPage';
 
 function RouterJS(props){
     return (
-    // <Router basename={process.env.PUBLIC_URL}>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
         <Route path="/" exact render={()=><MainPage {...props} />}/>
         <Route path="/input" exact render={()=><InputFormPage {...props} />}/>
         <Route path="/detail/:id" exact render={props=><DetailPage {...props} />}/>
