@@ -307,7 +307,7 @@ const Emotion = styled.div`
 
 // function //
 function Profile(props) {
-    const [imageURL, setImageURL] = useState("../tae.jpg");
+    const [imageURL, setImageURL] = useState("./tae.jpg");
     const [nickname, setNickname] = useState("제로");
 
     const d = new Date();
